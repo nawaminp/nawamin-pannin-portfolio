@@ -73,7 +73,7 @@ _Jun 2023 - Present_
 
 **Description:**
 
-An e-commerce platform for a Mediterranean restaurant in mobile apps with delivery and dine-in features, including options, side dishes, and more.
+An e-commerce platform for a Mediterranean restaurant, featuring mobile apps with delivery and dine-in options, including customizable choices, side dishes, and more, integrated with Oracle NetSuite (Cloud ERP) for synchronization.
 
 **Responsibilities:**
 
@@ -142,6 +142,28 @@ A web application that uses an AI model to recognize a bill or receipt, pre-fill
 **Link:** [Website](https://daos-ai.smartsoftasia.com)
 
 ![](./images/ai-accounting-01.png)
+
+---
+
+### Rabbit Rewards (Subscription)
+
+_Mar 2022 - Oct 2024_
+
+**Description:**
+
+An API service for a Mobile and CMS applications that handles a subscription model, connecting with multiple payment gateways and internal services.
+
+**Responsibilities:**
+
+- Initialize a project using Node.js with Express.
+- Develop all mobile APIs according to the requirements.
+- Develop CMS APIs according to the requirements.
+- Implement payment gateways.
+- Implement data serving for internal services.
+- Architect the project for cloud services to handle high usage.
+- Optimize project performance.
+  
+**Technologies:** [Express](https://github.com/expressjs/express)
 
 ---
 
