@@ -87,6 +87,7 @@ An e-commerce platform for a Mediterranean restaurant in mobile apps with delive
 **Link:** [iOS](https://apps.apple.com/th/app/el-mercado/id6468034312), [Android](https://play.google.com/store/apps/details?id=com.sybarite.elmercado)
 
 ![](./images/elmercado-01.png)
+
 <p>
 <img src="./images/elmercado-02.PNG" alt="MobileApp" width="150" height="325">
 <img src="./images/elmercado-03.PNG" alt="MobileApp" width="150" height="325">
@@ -114,9 +115,10 @@ A application designed for internal social communication in corporate, supportin
 **Link:** [Website](https://www.link2team.com/), [Android](https://play.google.com/store/apps/details?id=com.smartsoftasia.link2teamapp)
 
 ![](./images/link2team-01.png)
+
 <p>
-<img src="./images/link2team-02.png" alt="MobileApp" width="150" height="325">
-<img src="./images/link2team-03.png" alt="MobileApp" width="150" height="325">
+<img src="./images/link2team-02.PNG" alt="MobileApp" width="150" height="325">
+<img src="./images/link2team-03.PNG" alt="MobileApp" width="150" height="325">
 </p>
 
 ---
