@@ -4,7 +4,8 @@ This portfolio showcases my professional work in software development, highlight
 
 ## Projects
 
-### CompMoto POS <span style="float:right;">Jan 2025 - Present </span>
+### CompMoto POS 
+*Jan 2025 - Present*
 
 **Description:**
 
@@ -21,7 +22,8 @@ POS Stock Management with Cloud ERP Synchronization for Automotive Parts, Produc
 
 ---
 
-### Easyhealth <span style="float:right;">Jun 2024 - Present </span>
+### Easyhealth 
+*Jun 2024 - Present*
 
 **Description:**
 
@@ -40,7 +42,8 @@ An e-commerce platform for healthy food products, featuring web and mobile apps 
 
 ---
 
-### Mewing App <span style="float:right;">May 2024 - Present </span>
+### Mewing App 
+*May 2024 - Present*
 
 **Description:**
 
@@ -65,7 +68,8 @@ Subscription-Based Video Service for Mewing Content on Mobile App and Website.
 
 ---
 
-### El Mercado <span style="float:right;">Jun 2023 - Present </span>
+### El Mercado 
+*Jun 2023 - Present*
 
 **Description:**
 
