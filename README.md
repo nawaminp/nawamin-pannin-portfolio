@@ -40,7 +40,7 @@ An e-commerce platform for healthy food products, featuring web and mobile apps 
 **Technologies:** [Next.js v15.1.6](https://github.com/vercel/next.js/), [heroui](https://github.com/heroui-inc/heroui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [Stripe v17.0.0](https://github.com/stripe/stripe-node), [Kosmo Delivery](https://kosmo.readme.io/reference/whats-kosmo)
 
 ![](./images/easyhealth-01.png)
-<img src="./images/easyhealth-02.jpeg" alt="MobileApp" width="150" height="299">
+<img src="./images/easyhealth-02.jpeg" alt="MobileApp" width="250" height="498">
 
 ---
 
@@ -89,8 +89,8 @@ An e-commerce platform for a Mediterranean restaurant in mobile apps with delive
 ![](./images/elmercado-01.png)
 
 <p>
-<img src="./images/elmercado-02.PNG" alt="MobileApp" width="150" height="325">
-<img src="./images/elmercado-03.PNG" alt="MobileApp" width="150" height="325">
+<img src="./images/elmercado-02.PNG" alt="MobileApp" width="250" height="541">
+<img src="./images/elmercado-03.PNG" alt="MobileApp" width="250" height="541">
 </p>
 
 ---
@@ -117,9 +117,31 @@ A application designed for internal social communication in corporate, supportin
 ![](./images/link2team-01.png)
 
 <p>
-<img src="./images/link2team-02.PNG" alt="MobileApp" width="150" height="325">
-<img src="./images/link2team-03.PNG" alt="MobileApp" width="150" height="325">
+<img src="./images/link2team-02.PNG" alt="MobileApp" width="250" height="541">
+<img src="./images/link2team-03.PNG" alt="MobileApp" width="250" height="541">
 </p>
+
+---
+
+### AI Accounting
+
+_Jan 2023 - Present_
+
+**Description:**
+
+A web application that uses an AI model to recognize a bill or receipt, pre-fill the data, and upload it to Xero accounting services.
+
+**Responsibilities:**
+
+- Design a workflow for a team.
+- Develop a proof of concept (POC) for a Xero SDK.
+- Manage CI/CD pipelines and the GCP platform.
+
+**Technologies:** [Next.js v14.1.0](https://github.com/vercel/next.js/), [RadixUI](https://github.com/radix-ui/themes), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [xero-node](https://github.com/XeroAPI/xero-node)
+
+**Link:** [Website](https://daos-ai.smartsoftasia.com)
+
+![](./images/ai-accounting-01.png)
 
 ---
 
