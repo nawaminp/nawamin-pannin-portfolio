@@ -4,7 +4,12 @@ This portfolio showcases my professional work in software development, highlight
 
 ## Projects
 
-**CompMoto POS** <span style="float:right;">Aug 2024 - Present </span>  
+### CompMoto POS <span style="float:right;">Jan 2025 - Present </span>
+
+**Description:**
+
+POS Stock Management with Cloud ERP Synchronization for Automotive Parts, Products, and Services.
+
 **Responsibilities:**
 
 - Developed APIs for dashboard, cashier, and emailing systems.
@@ -16,7 +21,31 @@ This portfolio showcases my professional work in software development, highlight
 
 ---
 
-**MewingApp** <span style="float:right;">May 2024 - Present </span>  
+### Easyhealth <span style="float:right;">Jun 2024 - Present </span>
+
+**Description:**
+
+An e-commerce platform for healthy food products, featuring web and mobile apps with customizable meal bowls and detailed micronutrient information.
+
+**Responsibilities:**
+
+- Integrate Kosmo Delivery for rider location tracking.
+- Implement app notification API.
+- Collaborate with mobile app team on payment gateway integration.
+
+**Technologies:** [Next.js v15.1.6](https://github.com/vercel/next.js/), [heroui](https://github.com/heroui-inc/heroui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [Stripe v17.0.0](https://github.com/stripe/stripe-node), [Kosmo Delivery](https://kosmo.readme.io/reference/whats-kosmo)
+
+![](./images/easyhealth-01.png)
+<img src="./images/easyhealth-02.jpeg" alt="MobileApp" width="150" height="299">
+
+---
+
+### Mewing App <span style="float:right;">May 2024 - Present </span>
+
+**Description:**
+
+Subscription-Based Video Service for Mewing Content on Mobile App and Website.
+
 **Responsibilities:**
 
 - Developed data synchronization with the Klaviyo marketing platform.
@@ -33,5 +62,37 @@ This portfolio showcases my professional work in software development, highlight
 - [Android](https://play.google.com/store/apps/details?id=com.orthotropics.mewing)
 
 ## ![](./images/mewing-01.png)
+
+---
+
+### El Mercado <span style="float:right;">Jun 2023 - Present </span>
+
+**Description:**
+
+An e-commerce platform for a Mediterranean restaurant in mobile apps with delivery and dine-in features, including options, side dishes, and more.
+
+**Responsibilities:**
+
+- Developed multiple APIs to support mobile and web front-end features and functionality.
+- Implemented and managed the full payment gateway integration process.
+- Managed CI/CD pipelines to ensure efficient and reliable deployment workflows.
+- Collaborated closely with the mobile app development team to align on project goals and deliverables.
+
+**Technologies:** [Next.js v13.5.6](https://github.com/vercel/next.js/), [headlessui](https://github.com/tailwindlabs/headlessui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [Stripe v12.18.0](https://github.com/stripe/stripe-node)
+
+**Link:**
+
+- [iOS](https://apps.apple.com/th/app/el-mercado/id6468034312)
+- [Android](https://play.google.com/store/apps/details?id=com.sybarite.elmercado)
+
+![](./images/elmercado-01.png)
+
+<p>
+<img src="./images/elmercado-02.PNG" alt="MobileApp" width="150" height="325">
+<img src="./images/elmercado-03.PNG" alt="MobileApp" width="150" height="325">
+
+</p>
+
+---
 
 **More projects are coming soon.**
