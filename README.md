@@ -4,12 +4,13 @@ This portfolio showcases my professional work in software development, highlight
 
 ## Projects
 
-### CompMoto POS 
-*Jan 2025 - Present*
+### CompMoto POS
+
+_Jan 2025 - Present_
 
 **Description:**
 
-POS Stock Management with Cloud ERP Synchronization for Automotive Parts, Products, and Services.
+POS Stock Management with Microsoft Dynamics (Cloud ERP) Synchronization for Automotive Parts, Products, and Services.
 
 **Responsibilities:**
 
@@ -22,8 +23,9 @@ POS Stock Management with Cloud ERP Synchronization for Automotive Parts, Produc
 
 ---
 
-### Easyhealth 
-*Jun 2024 - Present*
+### Easyhealth
+
+_Jun 2024 - Present_
 
 **Description:**
 
@@ -42,8 +44,9 @@ An e-commerce platform for healthy food products, featuring web and mobile apps 
 
 ---
 
-### Mewing App 
-*May 2024 - Present*
+### Mewing App
+
+_May 2024 - Present_
 
 **Description:**
 
@@ -58,18 +61,15 @@ Subscription-Based Video Service for Mewing Content on Mobile App and Website.
 
 **Technologies:** [Next.js v15.0.2](https://github.com/vercel/next.js/), [nextui](https://github.com/nextui-org/nextui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [Klaviyo](https://github.com/klaviyo/klaviyo-api-node), [Stripe v17.4.0](https://github.com/stripe/stripe-node)
 
-**Link:**
-
-- [Website](https://web.mewingapp.co/home)
-- [iOS](https://apps.apple.com/gb/app/mewing-by-dr-mike-mew/id1562833932)
-- [Android](https://play.google.com/store/apps/details?id=com.orthotropics.mewing)
+**Link:** [Website](https://web.mewingapp.co/home), [iOS](https://apps.apple.com/gb/app/mewing-by-dr-mike-mew/id1562833932), [Android](https://play.google.com/store/apps/details?id=com.orthotropics.mewing)
 
 ## ![](./images/mewing-01.png)
 
 ---
 
-### El Mercado 
-*Jun 2023 - Present*
+### El Mercado
+
+_Jun 2023 - Present_
 
 **Description:**
 
@@ -84,17 +84,39 @@ An e-commerce platform for a Mediterranean restaurant in mobile apps with delive
 
 **Technologies:** [Next.js v13.5.6](https://github.com/vercel/next.js/), [headlessui](https://github.com/tailwindlabs/headlessui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [Stripe v12.18.0](https://github.com/stripe/stripe-node)
 
-**Link:**
-
-- [iOS](https://apps.apple.com/th/app/el-mercado/id6468034312)
-- [Android](https://play.google.com/store/apps/details?id=com.sybarite.elmercado)
+**Link:** [iOS](https://apps.apple.com/th/app/el-mercado/id6468034312), [Android](https://play.google.com/store/apps/details?id=com.sybarite.elmercado)
 
 ![](./images/elmercado-01.png)
-
 <p>
 <img src="./images/elmercado-02.PNG" alt="MobileApp" width="150" height="325">
 <img src="./images/elmercado-03.PNG" alt="MobileApp" width="150" height="325">
+</p>
 
+---
+
+### Link2Team
+
+_Mar 2023 - Present_
+
+**Description:**
+
+A application designed for internal social communication in corporate, supporting posts, surveys, and comments. Includes an anonymous mode for user privacy.
+
+**Responsibilities:**
+
+- Developed all mobile APIs, including authentication, post, like/unlike, notification, and more.
+- Developed web front-end APIs for the CMS.
+- Managed CI/CD pipelines to ensure efficient and reliable deployment workflows.
+- Served as the main developer collaborating with the front-end team.
+
+**Technologies:** [Next.js v13.4.8](https://github.com/vercel/next.js/), [headlessui](https://github.com/tailwindlabs/headlessui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [twin.macro](https://github.com/ben-rogerson/twin.macro)
+
+**Link:** [Website](https://www.link2team.com/), [Android](https://play.google.com/store/apps/details?id=com.smartsoftasia.link2teamapp)
+
+![](./images/link2team-01.png)
+<p>
+<img src="./images/link2team-02.png" alt="MobileApp" width="150" height="325">
+<img src="./images/link2team-03.png" alt="MobileApp" width="150" height="325">
 </p>
 
 ---
