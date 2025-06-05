@@ -204,7 +204,7 @@ A ride-hailing application that specializes in electric motorcycle (EV), that in
 
 **Responsibilities:**
 
-- Developed all features for the Rider, Driver, and Merchant applications.
+- Developed core features for the Rider, Driver, and mostly Merchant applications.
 - Integrated with a payment gateway.
 - Established a WebSocket connection.
   
@@ -214,6 +214,31 @@ A ride-hailing application that specializes in electric motorcycle (EV), that in
 <img src="./images/evriderz-02.jpg" alt="MobileApp" width="250" height="541">
 <img src="./images/evriderz-03.jpg" alt="MobileApp" width="250" height="621">
 </p>
+
 ---
 
-**More projects are coming soon.**
+### Perfumist v3
+
+_Mar 2019 - Dec 2022 (v3.3.1 - v4.0.50)_
+
+**Description:**
+
+A perfume advisory app that allows users to browse brands, models, fragrance notes, and concentration levels. It also has a Pro version for shop staff.
+
+**Responsibilities:**
+
+- Built Android apps that improve user experience and functionality with smart design and advanced technology.
+  
+**Technologies:** [Android 13](https://developer.android.com/tools/releases/platforms#13), [Kotlin v1.7.20](https://github.com/JetBrains/kotlin/releases/tag/v1.6.0)
+
+**Link:** [Android](https://play.google.com/store/apps/details?id=com.smartsoftasia.perfume)
+
+<p>
+<img src="./images/perfumist-01.png" alt="MobileApp" width="250" height="493">
+<img src="./images/perfumist-02.png" alt="MobileApp" width="250" height="493">
+<img src="./images/perfumist-03.png" alt="MobileApp" width="250" height="493">
+</p>
+
+---
+
+### More projects are coming soon.
