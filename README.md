@@ -144,7 +144,29 @@ A web application that uses an AI model to recognize a bill or receipt, pre-fill
 ![](./images/ai-accounting-01.png)
 
 ---
+### JustCar
 
+_Aug 2022 - Jul 2023_
+
+**Description:**
+
+A platform for buying and selling used cars, offering a wide range of vehicle models and years, Additionally, JustLoan provides loan services to support customers with tailored financial solutions.
+
+**Responsibilities:**
+
+- Set up a server with CI/CD pipelines using cloud services.
+- Developed several feature APIs for a Content Management System (CMS).
+- Assisted other teams with small tasks as needed.
+  
+**Technologies:** [Next.js v12.2.5](https://github.com/vercel/next.js/), [prisma](https://github.com/prisma/prisma), [next-auth](https://github.com/nextauthjs/next-auth), [CASL](https://github.com/stalniy/casl), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [headlessui](https://github.com/tailwindlabs/headlessui)  
+
+<p>
+<img src="./images/justcar-01.png" alt="MobileApp" width="250" height="493">
+<img src="./images/justcar-02.png" alt="MobileApp" width="250" height="493">
+<img src="./images/justcar-03.png" alt="MobileApp" width="250" height="493">
+</p>
+
+---
 ### Rabbit Rewards (Subscription)
 
 _Mar 2022 - Oct 2024_
