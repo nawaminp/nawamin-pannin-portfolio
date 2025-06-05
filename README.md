@@ -191,6 +191,29 @@ An API service for a Mobile and CMS applications that handles a subscription mod
 <img src="./images/rabbit-subscription-02.PNG" alt="MobileApp" width="250" height="541">
 <img src="./images/rabbit-subscription-03.PNG" alt="MobileApp" width="250" height="541">
 </p>
+
+---
+
+### EvRiderz, EvDriverz and EvMerchant 
+
+_Aug 2020 - Nov 2021_
+
+**Description:**
+
+A ride-hailing application that specializes in electric motorcycle (EV), that includes Rider (End-user), Driver and Merchant app.
+
+**Responsibilities:**
+
+- Developed all features for the Rider, Driver, and Merchant applications.
+- Integrated with a payment gateway.
+- Established a WebSocket connection.
+  
+**Technologies:** [Android 12](https://developer.android.com/tools/releases/platforms#12), [Kotlin v1.6.0](https://github.com/JetBrains/kotlin/releases/tag/v1.6.0), [Websocket](https://github.com/centrifugal/centrifuge-java), [2C2P](https://developer.2c2p.com/docs/sdk-import-sdk)
+<p>
+<img src="./images/evriderz-01.jpg" alt="MobileApp" width="250" height="541">
+<img src="./images/evriderz-02.jpg" alt="MobileApp" width="250" height="541">
+<img src="./images/evriderz-03.jpg" alt="MobileApp" width="250" height="621">
+</p>
 ---
 
 **More projects are coming soon.**
