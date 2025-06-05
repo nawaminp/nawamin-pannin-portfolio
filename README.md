@@ -181,9 +181,9 @@ An API service for a Mobile and CMS applications that handles a subscription mod
 - Develop all mobile APIs according to the requirements.
 - Develop CMS APIs according to the requirements.
 - Implement payment gateways.
-- Implement data serving for internal services.
 - Architect the project for cloud services to handle high usage.
 - Optimize project performance.
+- Efficiently assigned tasks to quickly implement required changes and add features, meeting project deadlines.
   
 **Technologies:** [Express](https://github.com/expressjs/express)
 <p>
@@ -229,7 +229,7 @@ A perfume advisory app that allows users to browse brands, models, fragrance not
 
 - Built Android apps that improve user experience and functionality with smart design and advanced technology.
   
-**Technologies:** [Android 13](https://developer.android.com/tools/releases/platforms#13), [Kotlin v1.7.20](https://github.com/JetBrains/kotlin/releases/tag/v1.6.0)
+**Technologies:** [Android 13](https://developer.android.com/tools/releases/platforms#13), [Kotlin v1.7.20](https://github.com/JetBrains/kotlin/releases/tag/v1.7.20)
 
 **Link:** [Android](https://play.google.com/store/apps/details?id=com.smartsoftasia.perfume)
 
@@ -237,6 +237,32 @@ A perfume advisory app that allows users to browse brands, models, fragrance not
 <img src="./images/perfumist-01.png" alt="MobileApp" width="250" height="493">
 <img src="./images/perfumist-02.png" alt="MobileApp" width="250" height="493">
 <img src="./images/perfumist-03.png" alt="MobileApp" width="250" height="493">
+</p>
+
+---
+
+### Rabbit Rewards (Android)
+
+_Aug 2018 - May 2023 (v4.0.0 - v4.4.6)_
+
+**Description:**
+
+Rabbit Rewards is an application mainly for redeeming points for rewards, featuring surveys, challenges, lucky draws, and more.
+
+**Responsibilities:**
+
+- Configured project environments.
+- Built Android apps, improving functionality and user experience with modern design and tech.
+- Efficiently assigned tasks to quickly implement required changes and add features, meeting project deadlines.
+  
+**Technologies:** [Android 13](https://developer.android.com/tools/releases/platforms#13), [Kotlin v1.7.10](https://github.com/JetBrains/kotlin/releases/tag/v1.7.10)
+
+**Link:** [Android](https://play.google.com/store/apps/details?id=th.co.carrotrewards)
+
+<p>
+<img src="./images/rabbit-rewards-app-01.png" alt="MobileApp" width="250" height="493">
+<img src="./images/rabbit-rewards-app-02.png" alt="MobileApp" width="250" height="493">
+<img src="./images/rabbit-rewards-app-03.png" alt="MobileApp" width="250" height="493">
 </p>
 
 ---
