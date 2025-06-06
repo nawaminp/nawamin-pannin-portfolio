@@ -144,6 +144,7 @@ A web application that uses an AI model to recognize a bill or receipt, pre-fill
 ![](./images/ai-accounting-01.png)
 
 ---
+
 ### JustCar
 
 _Aug 2022 - Jul 2023_
@@ -157,8 +158,8 @@ A platform for buying and selling used cars, offering a wide range of vehicle mo
 - Set up a server with CI/CD pipelines using cloud services.
 - Developed several feature APIs for a Content Management System (CMS).
 - Assisted other teams with small tasks as needed.
-  
-**Technologies:** [Next.js v12.2.5](https://github.com/vercel/next.js/), [prisma](https://github.com/prisma/prisma), [next-auth](https://github.com/nextauthjs/next-auth), [CASL](https://github.com/stalniy/casl), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [headlessui](https://github.com/tailwindlabs/headlessui)  
+
+**Technologies:** [Next.js v12.2.5](https://github.com/vercel/next.js/), [prisma](https://github.com/prisma/prisma), [next-auth](https://github.com/nextauthjs/next-auth), [CASL](https://github.com/stalniy/casl), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [headlessui](https://github.com/tailwindlabs/headlessui)
 
 <p>
 <img src="./images/justcar-01.png" alt="MobileApp" width="250" height="493">
@@ -167,6 +168,7 @@ A platform for buying and selling used cars, offering a wide range of vehicle mo
 </p>
 
 ---
+
 ### Rabbit Rewards (Subscription)
 
 _Mar 2022 - Oct 2024_
@@ -184,8 +186,9 @@ An API service for a Mobile and CMS applications that handles a subscription mod
 - Architect the project for cloud services to handle high usage.
 - Optimize project performance.
 - Efficiently assigned tasks to quickly implement required changes and add features, meeting project deadlines.
-  
+
 **Technologies:** [Express](https://github.com/expressjs/express)
+
 <p>
 <img src="./images/rabbit-subscription-01.PNG" alt="MobileApp" width="250" height="541">
 <img src="./images/rabbit-subscription-02.PNG" alt="MobileApp" width="250" height="541">
@@ -194,7 +197,7 @@ An API service for a Mobile and CMS applications that handles a subscription mod
 
 ---
 
-### EvRiderz, EvDriverz and EvMerchant 
+### EvRiderz, EvDriverz and EvMerchant
 
 _Aug 2020 - Nov 2021_
 
@@ -207,8 +210,9 @@ A ride-hailing application that specializes in electric motorcycle (EV), that in
 - Developed core features for the Rider, Driver, and mostly Merchant applications.
 - Integrated with a payment gateway.
 - Established a WebSocket connection.
-  
+
 **Technologies:** [Android 12](https://developer.android.com/tools/releases/platforms#12), [Kotlin v1.6.0](https://github.com/JetBrains/kotlin/releases/tag/v1.6.0), [Websocket](https://github.com/centrifugal/centrifuge-java), [2C2P](https://developer.2c2p.com/docs/sdk-import-sdk)
+
 <p>
 <img src="./images/evriderz-01.jpg" alt="MobileApp" width="250" height="541">
 <img src="./images/evriderz-02.jpg" alt="MobileApp" width="250" height="541">
@@ -228,7 +232,7 @@ A perfume advisory app that allows users to browse brands, models, fragrance not
 **Responsibilities:**
 
 - Built Android apps that improve user experience and functionality with smart design and advanced technology.
-  
+
 **Technologies:** [Android 13](https://developer.android.com/tools/releases/platforms#13), [Kotlin v1.7.20](https://github.com/JetBrains/kotlin/releases/tag/v1.7.20)
 
 **Link:** [Android](https://play.google.com/store/apps/details?id=com.smartsoftasia.perfume)
@@ -254,7 +258,7 @@ Rabbit Rewards is an application mainly for redeeming points for rewards, featur
 - Configured project environments.
 - Built Android apps, improving functionality and user experience with modern design and tech.
 - Efficiently assigned tasks to quickly implement required changes and add features, meeting project deadlines.
-  
+
 **Technologies:** [Android 13](https://developer.android.com/tools/releases/platforms#13), [Kotlin v1.7.10](https://github.com/JetBrains/kotlin/releases/tag/v1.7.10)
 
 **Link:** [Android](https://play.google.com/store/apps/details?id=th.co.carrotrewards)
@@ -263,6 +267,51 @@ Rabbit Rewards is an application mainly for redeeming points for rewards, featur
 <img src="./images/rabbit-rewards-app-01.png" alt="MobileApp" width="250" height="493">
 <img src="./images/rabbit-rewards-app-02.png" alt="MobileApp" width="250" height="493">
 <img src="./images/rabbit-rewards-app-03.png" alt="MobileApp" width="250" height="493">
+</p>
+
+---
+
+### Keyistar
+
+_Apr 2018 - Feb 2020_
+
+**Description:**
+
+A mobile app for property listings, connecting buyers and sellers efficiently. Users can browse, list, and see a contact details.
+
+**Responsibilities:**
+
+- Configured project environments.
+- Migrated to AndroidX.
+- Developed several features.
+
+**Technologies:** [Android 11](https://developer.android.com/tools/releases/platforms#11), [Kotlin v1.5.30](https://github.com/JetBrains/kotlin/releases/tag/v1.5.30)
+
+<p>
+<img src="./images/keyistar-01.png" alt="MobileApp" width="250" height="493">
+<img src="./images/keyistar-02.jpg" alt="MobileApp" width="250" height="493">
+<img src="./images/keyistar-03.jpg" alt="MobileApp" width="250" height="493">
+</p>
+
+---
+
+### JJ
+
+_Jan 2018 - Jun 2018_
+
+**Description:**
+
+A marketplace mobile application specifically for the Chatuchak Market area.
+
+**Responsibilities:**
+
+- Developed several features.
+
+**Technologies:** [Android 8.1](https://developer.android.com/tools/releases/platforms#8.1), [Kotlin v1.2.41](https://github.com/JetBrains/kotlin/releases/tag/v1.2.41)
+
+<p>
+<img src="./images/jj-01.jpg" alt="MobileApp" width="250" height="456">
+<img src="./images/jj-02.jpg" alt="MobileApp" width="250" height="456">
 </p>
 
 ---
