@@ -362,4 +362,27 @@ Canyudo is a mobile application for task management, allowing users to assign ta
 
 ---
 
+### Guru Chat
+
+_Jan 2017 - Aug 2017_
+
+**Description:**
+
+Guru Chat is an Android chat application focused on MLM users.
+
+**Responsibilities:**
+
+- Configured project environments.
+- Developed all features using Smack, an open-source XMPP client library.
+
+**Technologies:** [Android 7.1](https://developer.android.com/tools/releases/platforms#7.1), [Smack](https://www.igniterealtime.org/projects/smack/)
+
+<p>
+<img src="./images/guru-chat-01.jpg" alt="MobileApp" width="250" height="444">
+<img src="./images/guru-chat-02.jpg" alt="MobileApp" width="250" height="444">
+<img src="./images/guru-chat-03.jpg" alt="MobileApp" width="250" height="444">
+</p>
+
+---
+
 ### More projects are coming soon.
