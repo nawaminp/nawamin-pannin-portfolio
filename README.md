@@ -339,4 +339,27 @@ A fashion marketplace mobile application that can filter by gender, color, size,
 
 ---
 
+### Canyudo
+
+_Mar 2017 - Mar 2018_
+
+**Description:**
+
+Canyudo is a mobile application for task management, allowing users to assign tasks, manage group members, set due dates, and handle related activities.
+
+**Responsibilities:**
+
+- Configured project environments.
+- Developed all features, especially user experience in swiping, dragging and dropping, and more.
+
+**Technologies:** [Android 8.0](https://developer.android.com/tools/releases/platforms#8.0), [Kotlin v1.2.10](https://github.com/JetBrains/kotlin/releases/tag/v1.2.10), [Realm](https://github.com/realm/realm-kotlin)
+
+<p>
+<img src="./images/canyudo-01.png" alt="MobileApp" width="250" height="445">
+<img src="./images/canyudo-02.png" alt="MobileApp" width="250" height="445">
+<img src="./images/canyudo-03.png" alt="MobileApp" width="250" height="445">
+</p>
+
+---
+
 ### More projects are coming soon.
