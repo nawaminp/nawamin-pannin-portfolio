@@ -316,4 +316,27 @@ A marketplace mobile application specifically for the Chatuchak Market area.
 
 ---
 
+### Bemynt
+
+_Aug 2017 - Mar 2018_
+
+**Description:**
+
+A fashion marketplace mobile application that can filter by gender, color, size, brand, and other related criteria.
+
+**Responsibilities:**
+
+- Developed several features.
+- Integrated the Omise payment gateway.
+
+**Technologies:** [Android 7.1](https://developer.android.com/tools/releases/platforms#7.1), [Kotlin v1.2.0](https://github.com/JetBrains/kotlin/releases/tag/v1.2.0), [Omise](https://github.com/omise/omise-android)
+
+<p>
+<img src="./images/bemynt-01.jpg" alt="MobileApp" width="250" height="445">
+<img src="./images/bemynt-02.jpg" alt="MobileApp" width="250" height="445">
+<img src="./images/bemynt-03.jpg" alt="MobileApp" width="250" height="445">
+</p>
+
+---
+
 ### More projects are coming soon.
