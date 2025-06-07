@@ -385,4 +385,52 @@ Guru Chat is an Android chat application focused on MLM users.
 
 ---
 
+### Dart Brunei
+
+_Dec 2016 - Dec 2017 (v1.0.0 - v1.1.9)_
+
+**Description:**
+
+A ride-hailing application available in Brunei.
+
+**Responsibilities:**
+
+- Configured project environments.
+- Integrated the AuthorizeNet payment gateway.
+- Developed core features such as streaming locations, socket ride handle and etc.
+
+**Technologies:** [Android 8.0](https://developer.android.com/tools/releases/platforms#8.0), [SocketIO](https://github.com/socketio/socket.io-client-java), [AuthorizeNet](https://github.com/AuthorizeNet/accept-sdk-android)
+
+**Link:** [Android](https://play.google.com/store/apps/details?id=com.dartbrunei.darttaxi.rider)
+
+<p>
+<img src="./images/dart-01.jpg" alt="MobileApp" width="250" height="444">
+<img src="./images/dart-02.jpg" alt="MobileApp" width="250" height="444">
+<img src="./images/dart-03.jpg" alt="MobileApp" width="250" height="444">
+</p>
+
+---
+
+### Playbasis DBS
+
+_Nov 2016 - Nov 2016_
+
+**Description:**
+
+A gamification app that includes three features: shaking eggs, card pairing, and card catching.
+
+**Responsibilities:**
+
+- Developed a gaming UX/UI focused on motion and logic.
+
+**Technologies:** [Android 5.0](https://developer.android.com/tools/releases/platforms#5.0)
+
+<p>
+<img src="./images/dbs-01.png" alt="MobileApp" width="250" height="444">
+<img src="./images/dbs-02.png" alt="MobileApp" width="250" height="444">
+<img src="./images/dbs-03.png" alt="MobileApp" width="250" height="444">
+</p>
+
+---
+
 ### More projects are coming soon.
