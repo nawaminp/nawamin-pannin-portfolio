@@ -560,7 +560,3 @@ An e-commerce platform for Tops supermarket.
 <img src="./images/tops-02.jpg" alt="MobileApp" width="250" height="428">
 <img src="./images/tops-03.jpg" alt="MobileApp" width="250" height="428">
 </p>
-
----
-
-### More projects are coming soon.
