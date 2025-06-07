@@ -301,9 +301,9 @@ A mobile app for property listings, connecting buyers and sellers efficiently. U
 **Technologies:** [Android 11](https://developer.android.com/tools/releases/platforms#11), [Kotlin v1.5.30](https://github.com/JetBrains/kotlin/releases/tag/v1.5.30)
 
 <p>
-<img src="./images/keyistar-01.png" alt="MobileApp" width="250" height="493">
-<img src="./images/keyistar-02.jpg" alt="MobileApp" width="250" height="493">
-<img src="./images/keyistar-03.jpg" alt="MobileApp" width="250" height="493">
+<img src="./images/keyistar-01.png" alt="MobileApp" width="250" height="528">
+<img src="./images/keyistar-02.png" alt="MobileApp" width="250" height="528">
+<img src="./images/keyistar-03.png" alt="MobileApp" width="250" height="528">
 </p>
 
 ---
