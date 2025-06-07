@@ -527,4 +527,27 @@ A perfume advisory app that allows users to browse brands, models, fragrance not
 
 ---
 
+### Tops
+
+_Oct 2015 - Jun 2017 (v1.0.1 - v1.8.16)_
+
+**Description:**
+
+An e-commerce platform for Tops supermarket.
+
+**Responsibilities:**
+
+- Developed several features.
+- Integrated with a payment gateway.
+
+**Technologies:** [Android 6.0](https://developer.android.com/tools/releases/platforms#6.0), [Omise](https://github.com/omise/omise-android)
+
+<p>
+<img src="./images/tops-01.jpg" alt="MobileApp" width="250" height="428">
+<img src="./images/tops-02.jpg" alt="MobileApp" width="250" height="428">
+<img src="./images/tops-03.jpg" alt="MobileApp" width="250" height="428">
+</p>
+
+---
+
 ### More projects are coming soon.
