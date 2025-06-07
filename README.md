@@ -238,9 +238,9 @@ A perfume advisory app that allows users to browse brands, models, fragrance not
 **Link:** [Android](https://play.google.com/store/apps/details?id=com.smartsoftasia.perfume)
 
 <p>
-<img src="./images/perfumist-01.png" alt="MobileApp" width="250" height="493">
-<img src="./images/perfumist-02.png" alt="MobileApp" width="250" height="493">
-<img src="./images/perfumist-03.png" alt="MobileApp" width="250" height="493">
+<img src="./images/perfumist-v3-01.png" alt="MobileApp" width="250" height="493">
+<img src="./images/perfumist-v3-02.png" alt="MobileApp" width="250" height="493">
+<img src="./images/perfumist-v3-03.png" alt="MobileApp" width="250" height="493">
 </p>
 
 ---
@@ -401,7 +401,7 @@ A ride-hailing application available in Brunei.
 
 **Technologies:** [Android 8.0](https://developer.android.com/tools/releases/platforms#8.0), [SocketIO](https://github.com/socketio/socket.io-client-java), [AuthorizeNet](https://github.com/AuthorizeNet/accept-sdk-android)
 
-**Link:** [Android](https://play.google.com/store/apps/details?id=com.dartbrunei.darttaxi.rider)
+**Link:** [Android (Customer)](https://play.google.com/store/apps/details?id=com.dartbrunei.darttaxi.rider), [Android (Driver)](https://play.google.com/store/apps/details?id=com.dartbrunei.darttaxi.driver)
 
 <p>
 <img src="./images/dart-01.jpg" alt="MobileApp" width="250" height="444">
@@ -471,8 +471,58 @@ An emergency call for help to an insurance service involving a rider (end-user) 
 
 <p>
 <img src="./images/prompt-auto-01.jpg" alt="MobileApp" width="250" height="516">
-<img src="./images/prompt-auto-02.jpg" alt="MobileApp" width="250" height="516">
+<img src="./images/prompt-auto-02.jpg" alt="MobileApp" width="250" height="661">
 <img src="./images/prompt-auto-03.jpg" alt="MobileApp" width="250" height="516">
+</p>
+
+---
+
+### Stroll Guam
+
+_Nov 2015 - Jan 2021 (v1.0.0 - v.4.0.5)_
+
+**Description:**
+
+A ride-hailing application available in Guam island.
+
+**Responsibilities:**
+
+- Developed core features such as streaming locations, socket ride handle and etc.
+- Integrated with a payment gateway.
+- Integrated with a calling service through Twilio.
+
+**Technologies:** [Android 10](https://developer.android.com/tools/releases/platforms#10), [Kotlin v1.4.10](https://github.com/JetBrains/kotlin/releases/tag/v1.4.10), [SocketIO](https://github.com/socketio/socket.io-client-java), [Twilio](https://www.twilio.com/docs/voice/sdks/android), [AuthorizeNet](https://github.com/AuthorizeNet/accept-sdk-android)
+
+**Link:** [Android (Customer)](https://play.google.com/store/apps/details?id=stroll.guam.customer), [Android (Driver)](https://play.google.com/store/apps/details?id=com.stroll.driver)
+
+<p>
+<img src="./images/stroll-guam-01.jpg" alt="MobileApp" width="250" height="444">
+<img src="./images/stroll-guam-02.jpg" alt="MobileApp" width="250" height="444">
+<img src="./images/stroll-guam-03.jpg" alt="MobileApp" width="250" height="444">
+</p>
+
+---
+
+### Perfumist v2
+
+_Oct 2015 - Jan 2020 (v2.2.0 - v3.3.3)_
+
+**Description:**
+
+A perfume advisory app that allows users to browse brands, models, fragrance notes, and concentration levels.
+
+**Responsibilities:**
+
+- Built Android apps that improve user experience and functionality with smart design and advanced technology.
+
+**Technologies:** [Android 8.1](https://developer.android.com/tools/releases/platforms#8.1)
+
+**Link:** [Android](https://play.google.com/store/apps/details?id=com.smartsoftasia.perfume)
+
+<p>
+<img src="./images/perfumist-v2-01.jpg" alt="MobileApp" width="250" height="428">
+<img src="./images/perfumist-v2-02.jpg" alt="MobileApp" width="250" height="428">
+<img src="./images/perfumist-v2-03.jpg" alt="MobileApp" width="250" height="428">
 </p>
 
 ---
