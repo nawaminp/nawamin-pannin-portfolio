@@ -248,7 +248,7 @@ A perfume advisory app that allows users to browse brands, models, fragrance not
 
 **Technologies:** [Android 13](https://developer.android.com/tools/releases/platforms#13), [Kotlin v1.7.20](https://github.com/JetBrains/kotlin/releases/tag/v1.7.20)
 
-**Link:** [Android](https://play.google.com/store/apps/details?id=com.smartsoftasia.perfume)
+**Link:** [Android](https://play.google.com/store/apps/details?id=com.smartsoftasia.perfume), [Youtube (User)](https://www.youtube.com/watch?v=Mv55xK8ZzrU), [Youtube (Pro)](https://www.youtube.com/watch?v=InI4BZTeqwU)
 
 <p>
 <img src="./images/perfumist-v3-01.png" alt="MobileApp" width="250" height="493">
@@ -414,7 +414,7 @@ A ride-hailing application available in Brunei.
 
 **Technologies:** [Android 8.0](https://developer.android.com/tools/releases/platforms#8.0), [SocketIO](https://github.com/socketio/socket.io-client-java), [AuthorizeNet](https://github.com/AuthorizeNet/accept-sdk-android)
 
-**Link:** [Android (Customer)](https://play.google.com/store/apps/details?id=com.dartbrunei.darttaxi.rider), [Android (Driver)](https://play.google.com/store/apps/details?id=com.dartbrunei.darttaxi.driver)
+**Link:** [Android (Customer)](https://play.google.com/store/apps/details?id=com.dartbrunei.darttaxi.rider), [Android (Driver)](https://play.google.com/store/apps/details?id=com.dartbrunei.darttaxi.driver), [Youtube](https://www.youtube.com/watch?v=sptk5s88Vhk)
 
 <p>
 <img src="./images/dart-01.jpg" alt="MobileApp" width="250" height="444">
@@ -437,6 +437,8 @@ A gamification app that includes three features: shaking eggs, card pairing, and
 - Developed a gaming UX/UI focused on motion and logic.
 
 **Technologies:** [Android 5.0](https://developer.android.com/tools/releases/platforms#5.0)
+
+**Link:** [Demo](https://drive.google.com/file/d/1vvdwNsOhmnqkiByfzLOXNeaAd3TjrR0J/view)
 
 <p>
 <img src="./images/dbs-01.png" alt="MobileApp" width="250" height="444">
@@ -530,7 +532,7 @@ A perfume advisory app that allows users to browse brands, models, fragrance not
 
 **Technologies:** [Android 8.1](https://developer.android.com/tools/releases/platforms#8.1)
 
-**Link:** [Android](https://play.google.com/store/apps/details?id=com.smartsoftasia.perfume)
+**Link:** [Android](https://play.google.com/store/apps/details?id=com.smartsoftasia.perfume), [Youtube](https://www.youtube.com/watch?v=w14ooIPx5ts)
 
 <p>
 <img src="./images/perfumist-v2-01.jpg" alt="MobileApp" width="250" height="428">
