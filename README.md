@@ -584,3 +584,24 @@ Swipe to find deals in the nearest location-based mobile application.
 <img src="./images/neibo-02.png" alt="MobileApp" width="250" height="444">
 <img src="./images/neibo-03.png" alt="MobileApp" width="250" height="444">
 </p>
+
+---
+
+### (Internship) KKU Authen
+
+_Apr 2014 - May 2014_
+
+**Description:**
+
+A window phone 8.1 application that facilitates automatic login to the Khon Kaen University's internet system.
+
+**Responsibilities:**
+
+- Learn and develop a Windows Phone 8.1 application using C#.
+
+**Technologies:** [Window Phone 8.1](https://learn.microsoft.com/en-us/lifecycle/products/windows-phone-81)
+
+<p>
+<img src="./images/kku-authen-01.png" alt="MobileApp" width="250" height="457">
+<img src="./images/kku-authen-02.png" alt="MobileApp" width="250" height="457">
+</p>
