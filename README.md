@@ -560,3 +560,25 @@ An e-commerce platform for Tops supermarket.
 <img src="./images/tops-02.jpg" alt="MobileApp" width="250" height="428">
 <img src="./images/tops-03.jpg" alt="MobileApp" width="250" height="428">
 </p>
+
+---
+
+### Neibo
+
+_Oct 2015 - May 2016 (v2.14.0 - v6.14.0)_
+
+**Description:**
+
+Swipe to find deals in the nearest location-based mobile application.
+
+**Responsibilities:**
+
+- Developed several features.
+
+**Technologies:** [Android 6.0](https://developer.android.com/tools/releases/platforms#6.0)
+
+<p>
+<img src="./images/neibo-01.png" alt="MobileApp" width="250" height="444">
+<img src="./images/neibo-02.png" alt="MobileApp" width="250" height="444">
+<img src="./images/neibo-03.png" alt="MobileApp" width="250" height="444">
+</p>
