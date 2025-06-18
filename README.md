@@ -4,6 +4,26 @@ This portfolio showcases my professional work in software development, highlight
 
 ## Projects
 
+### B-Accounting Internal system
+
+_Mar 2025 - Present_
+
+**Description:**
+
+A system for overseeing company assets, tracking employee resources, managing client services, reports, and meetings.
+
+**Responsibilities:**
+
+- Developed an Excel data export summary with a design that meets the requirements.
+- Assist with front-end minor changes.
+
+**Technologies:** [Next.js v15.0.2](https://github.com/vercel/next.js/), [nextui](https://github.com/nextui-org/nextui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [CASL](https://github.com/stalniy/casl), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [Exceljs](https://github.com/exceljs/exceljs)
+
+![](./images/b-accounting-01.png)
+![](./images/b-accounting-02.png)
+
+---
+
 ### CompMoto POS
 
 _Jan 2025 - Present_
@@ -597,7 +617,7 @@ A window phone 8.1 application that facilitates automatic login to the Khon Kaen
 
 **Responsibilities:**
 
-- Learn and develop a Windows Phone 8.1 application using C#.
+- Learned and developed a Windows Phone 8.1 application using C#.
 
 **Technologies:** [Window Phone 8.1](https://learn.microsoft.com/en-us/lifecycle/products/windows-phone-81)
 
