@@ -24,6 +24,8 @@ A system for overseeing company assets, tracking employee resources, managing cl
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 ### CompMoto POS
 
 _Jan 2025 - Present_
@@ -43,6 +45,8 @@ POS Stock Management with Microsoft Dynamics (Cloud ERP) Synchronization for Aut
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 ### Easyhealth
 
 _Jun 2024 - Present_
@@ -60,14 +64,11 @@ An e-commerce platform for healthy food products, featuring web and mobile apps 
 **Technologies:** [Next.js v15.1.6](https://github.com/vercel/next.js/), [heroui](https://github.com/heroui-inc/heroui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [Stripe v17.0.0](https://github.com/stripe/stripe-node), [Kosmo Delivery](https://kosmo.readme.io/reference/whats-kosmo)
 
 ![](./images/easyhealth-01.png)
-
-<p>
-<img src="./images/easyhealth-app-01.PNG" alt="MobileApp" width="250" height="541">
-<img src="./images/easyhealth-app-02.PNG" alt="MobileApp" width="250" height="541">
-<img src="./images/easyhealth-app-03.PNG" alt="MobileApp" width="250" height="541">
-</p>
+![](./images/easyhealth-app-merged.png)
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ### Mewing App
 
@@ -88,15 +89,12 @@ Subscription-Based Video Service for Mewing Content on Mobile App and Website.
 
 **Link:** [Website](https://web.mewingapp.co/home), [iOS](https://apps.apple.com/gb/app/mewing-by-dr-mike-mew/id1562833932), [Android](https://play.google.com/store/apps/details?id=com.orthotropics.mewing)
 
-## ![](./images/mewing-01.png)
-
-<p>
-<img src="./images/mewing-app-01.PNG" alt="MobileApp" width="250" height="541">
-<img src="./images/mewing-app-02.PNG" alt="MobileApp" width="250" height="541">
-<img src="./images/mewing-app-03.PNG" alt="MobileApp" width="250" height="541">
-</p>
+![](./images/mewing-01.png)
+![](./images/mewing-app-merged.png)
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ### El Mercado
 
@@ -118,14 +116,11 @@ An e-commerce platform for a Mediterranean restaurant, featuring mobile apps wit
 **Link:** [iOS](https://apps.apple.com/th/app/el-mercado/id6468034312), [Android](https://play.google.com/store/apps/details?id=com.sybarite.elmercado)
 
 ![](./images/elmercado-01.png)
-
-<p>
-<img src="./images/elmercado-app-01.PNG" alt="MobileApp" width="250" height="541">
-<img src="./images/elmercado-app-02.PNG" alt="MobileApp" width="250" height="541">
-<img src="./images/elmercado-app-03.PNG" alt="MobileApp" width="250" height="541">
-</p>
+![](./images/elmercado-app-merged.png)
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ### Link2Team
 
@@ -147,14 +142,11 @@ A application designed for internal social communication in corporate, supportin
 **Link:** [Website](https://www.link2team.com/), [Android](https://play.google.com/store/apps/details?id=com.smartsoftasia.link2teamapp)
 
 ![](./images/link2team-01.png)
-
-<p>
-<img src="./images/link2team-app-01.PNG" alt="MobileApp" width="250" height="541">
-<img src="./images/link2team-app-02.PNG" alt="MobileApp" width="250" height="541">
-<img src="./images/link2team-app-03.PNG" alt="MobileApp" width="250" height="541">
-</p>
+![](./images/link2team-app-merged.png)
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ### AI Accounting
 
@@ -178,6 +170,8 @@ A web application that uses an AI model to recognize a bill or receipt, pre-fill
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 ### JustCar
 
 _Aug 2022 - Jul 2023_
@@ -194,13 +188,11 @@ A platform for buying and selling used cars, offering a wide range of vehicle mo
 
 **Technologies:** [Next.js v12.2.5](https://github.com/vercel/next.js/), [prisma](https://github.com/prisma/prisma), [next-auth](https://github.com/nextauthjs/next-auth), [CASL](https://github.com/stalniy/casl), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [headlessui](https://github.com/tailwindlabs/headlessui)
 
-<p>
-<img src="./images/justcar-01.png" alt="MobileApp" width="250" height="493">
-<img src="./images/justcar-02.png" alt="MobileApp" width="250" height="493">
-<img src="./images/justcar-03.png" alt="MobileApp" width="250" height="493">
-</p>
+![](./images/justcar-app-merged.png)
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ### Rabbit Rewards (Subscription)
 
@@ -222,13 +214,11 @@ An API service for a Mobile and CMS applications that handles a subscription mod
 
 **Technologies:** [Express](https://github.com/expressjs/express)
 
-<p>
-<img src="./images/rabbit-subscription-01.PNG" alt="MobileApp" width="250" height="541">
-<img src="./images/rabbit-subscription-02.PNG" alt="MobileApp" width="250" height="541">
-<img src="./images/rabbit-subscription-03.PNG" alt="MobileApp" width="250" height="541">
-</p>
+![](./images/rabbit-subscription-merged.png)
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ### EvRiderz, EvDriverz and EvMerchant
 
@@ -246,13 +236,11 @@ A ride-hailing application that specializes in electric motorcycle (EV), that in
 
 **Technologies:** [Android 12](https://developer.android.com/tools/releases/platforms#12), [Kotlin v1.6.0](https://github.com/JetBrains/kotlin/releases/tag/v1.6.0), [Websocket](https://github.com/centrifugal/centrifuge-java), [2C2P](https://developer.2c2p.com/docs/sdk-import-sdk)
 
-<p>
-<img src="./images/evriderz-01.jpg" alt="MobileApp" width="250" height="541">
-<img src="./images/evriderz-02.jpg" alt="MobileApp" width="250" height="541">
-<img src="./images/evriderz-03.jpg" alt="MobileApp" width="250" height="621">
-</p>
+![](./images/evriderz-merged.png)
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ### Perfumist v3
 
@@ -270,13 +258,11 @@ A perfume advisory app that allows users to browse brands, models, fragrance not
 
 **Link:** [Android](https://play.google.com/store/apps/details?id=com.smartsoftasia.perfume), [Youtube (User)](https://www.youtube.com/watch?v=Mv55xK8ZzrU), [Youtube (Pro)](https://www.youtube.com/watch?v=InI4BZTeqwU)
 
-<p>
-<img src="./images/perfumist-v3-01.png" alt="MobileApp" width="250" height="493">
-<img src="./images/perfumist-v3-02.png" alt="MobileApp" width="250" height="493">
-<img src="./images/perfumist-v3-03.png" alt="MobileApp" width="250" height="493">
-</p>
+![](./images/perfumist-v3-merged.png)
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ### Rabbit Rewards (Android)
 
@@ -296,13 +282,11 @@ Rabbit Rewards is an application mainly for redeeming points for rewards, featur
 
 **Link:** [Android](https://play.google.com/store/apps/details?id=th.co.carrotrewards)
 
-<p>
-<img src="./images/rabbit-rewards-app-01.png" alt="MobileApp" width="250" height="493">
-<img src="./images/rabbit-rewards-app-02.png" alt="MobileApp" width="250" height="493">
-<img src="./images/rabbit-rewards-app-03.png" alt="MobileApp" width="250" height="493">
-</p>
+![](./images/rabbit-rewards-app-merged.png)
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ### Keyistar
 
@@ -320,13 +304,11 @@ A mobile app for property listings, connecting buyers and sellers efficiently. U
 
 **Technologies:** [Android 11](https://developer.android.com/tools/releases/platforms#11), [Kotlin v1.5.30](https://github.com/JetBrains/kotlin/releases/tag/v1.5.30)
 
-<p>
-<img src="./images/keyistar-01.png" alt="MobileApp" width="250" height="528">
-<img src="./images/keyistar-02.png" alt="MobileApp" width="250" height="528">
-<img src="./images/keyistar-03.png" alt="MobileApp" width="250" height="528">
-</p>
+![](./images/keyistar-merged.png)
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ### JJ
 
@@ -342,12 +324,11 @@ A marketplace mobile application specifically for the Chatuchak Market area.
 
 **Technologies:** [Android 8.1](https://developer.android.com/tools/releases/platforms#8.1), [Kotlin v1.2.41](https://github.com/JetBrains/kotlin/releases/tag/v1.2.41)
 
-<p>
-<img src="./images/jj-01.jpg" alt="MobileApp" width="250" height="456">
-<img src="./images/jj-02.jpg" alt="MobileApp" width="250" height="456">
-</p>
+![](./images/jj-merged.png)
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ### Bemynt
 
@@ -364,13 +345,11 @@ A fashion marketplace mobile application that can filter by gender, color, size,
 
 **Technologies:** [Android 7.1](https://developer.android.com/tools/releases/platforms#7.1), [Kotlin v1.2.0](https://github.com/JetBrains/kotlin/releases/tag/v1.2.0), [Omise](https://github.com/omise/omise-android)
 
-<p>
-<img src="./images/bemynt-01.jpg" alt="MobileApp" width="250" height="445">
-<img src="./images/bemynt-02.jpg" alt="MobileApp" width="250" height="445">
-<img src="./images/bemynt-03.jpg" alt="MobileApp" width="250" height="445">
-</p>
+![](./images/bemynt-merged.png)
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ### Canyudo
 
@@ -387,13 +366,11 @@ Canyudo is a mobile application for task management, allowing users to assign ta
 
 **Technologies:** [Android 8.0](https://developer.android.com/tools/releases/platforms#8.0), [Kotlin v1.2.10](https://github.com/JetBrains/kotlin/releases/tag/v1.2.10), [Realm](https://github.com/realm/realm-kotlin)
 
-<p>
-<img src="./images/canyudo-01.png" alt="MobileApp" width="250" height="445">
-<img src="./images/canyudo-02.png" alt="MobileApp" width="250" height="445">
-<img src="./images/canyudo-03.png" alt="MobileApp" width="250" height="445">
-</p>
+![](./images/canyudo-merged.png)
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ### Guru Chat
 
@@ -410,13 +387,11 @@ Guru Chat is an Android chat application focused on MLM users.
 
 **Technologies:** [Android 7.1](https://developer.android.com/tools/releases/platforms#7.1), [Smack](https://www.igniterealtime.org/projects/smack/)
 
-<p>
-<img src="./images/guru-chat-01.jpg" alt="MobileApp" width="250" height="444">
-<img src="./images/guru-chat-02.jpg" alt="MobileApp" width="250" height="444">
-<img src="./images/guru-chat-03.jpg" alt="MobileApp" width="250" height="444">
-</p>
+![](./images/guru-chat-merged.png)
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ### Dart Brunei
 
@@ -436,13 +411,11 @@ A ride-hailing application available in Brunei.
 
 **Link:** [Android (Customer)](https://play.google.com/store/apps/details?id=com.dartbrunei.darttaxi.rider), [Android (Driver)](https://play.google.com/store/apps/details?id=com.dartbrunei.darttaxi.driver), [Youtube](https://www.youtube.com/watch?v=sptk5s88Vhk)
 
-<p>
-<img src="./images/dart-01.jpg" alt="MobileApp" width="250" height="444">
-<img src="./images/dart-02.jpg" alt="MobileApp" width="250" height="444">
-<img src="./images/dart-03.jpg" alt="MobileApp" width="250" height="444">
-</p>
+![](./images/dart-merged.png)
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ### Playbasis DBS
 
@@ -460,13 +433,11 @@ A gamification app that includes three features: shaking eggs, card pairing, and
 
 **Link:** [Demo](https://drive.google.com/file/d/1vvdwNsOhmnqkiByfzLOXNeaAd3TjrR0J/view)
 
-<p>
-<img src="./images/dbs-01.png" alt="MobileApp" width="250" height="444">
-<img src="./images/dbs-02.png" alt="MobileApp" width="250" height="444">
-<img src="./images/dbs-03.png" alt="MobileApp" width="250" height="444">
-</p>
+![](./images/dbs-merged.png)
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ### DTM IOM
 
@@ -482,13 +453,11 @@ A survey application for the International Organization for Migration.
 
 **Technologies:** [Android 7.1](https://developer.android.com/tools/releases/platforms#7.1), [Realm](https://github.com/realm/realm-kotlin)
 
-<p>
-<img src="./images/dtm-01.jpeg" alt="MobileApp" width="250" height="516">
-<img src="./images/dtm-02.jpeg" alt="MobileApp" width="250" height="516">
-<img src="./images/dtm-03.jpeg" alt="MobileApp" width="250" height="516">
-</p>
+![](./images/dtm-merged.png)
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ### Prompt Auto
 
@@ -504,13 +473,11 @@ An emergency call for help to an insurance service involving a rider (end-user) 
 
 **Technologies:** [Android 7.1](https://developer.android.com/tools/releases/platforms#7.1)
 
-<p>
-<img src="./images/prompt-auto-01.jpg" alt="MobileApp" width="250" height="516">
-<img src="./images/prompt-auto-02.jpg" alt="MobileApp" width="250" height="661">
-<img src="./images/prompt-auto-03.jpg" alt="MobileApp" width="250" height="516">
-</p>
+![](./images/prompt-auto-merged.png)
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ### Stroll Guam
 
@@ -530,13 +497,11 @@ A ride-hailing application available in Guam island.
 
 **Link:** [Android (Customer)](https://play.google.com/store/apps/details?id=stroll.guam.customer), [Android (Driver)](https://play.google.com/store/apps/details?id=com.stroll.driver)
 
-<p>
-<img src="./images/stroll-guam-01.jpg" alt="MobileApp" width="250" height="444">
-<img src="./images/stroll-guam-02.jpg" alt="MobileApp" width="250" height="444">
-<img src="./images/stroll-guam-03.jpg" alt="MobileApp" width="250" height="444">
-</p>
+![](./images/stroll-guam-merged.png)
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ### Perfumist v2
 
@@ -554,13 +519,11 @@ A perfume advisory app that allows users to browse brands, models, fragrance not
 
 **Link:** [Android](https://play.google.com/store/apps/details?id=com.smartsoftasia.perfume), [Youtube](https://www.youtube.com/watch?v=w14ooIPx5ts)
 
-<p>
-<img src="./images/perfumist-v2-01.jpg" alt="MobileApp" width="250" height="428">
-<img src="./images/perfumist-v2-02.jpg" alt="MobileApp" width="250" height="428">
-<img src="./images/perfumist-v2-03.jpg" alt="MobileApp" width="250" height="428">
-</p>
+![](./images/perfumist-v2-merged.png)
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ### Tops
 
@@ -577,13 +540,11 @@ An e-commerce platform for Tops supermarket.
 
 **Technologies:** [Android 6.0](https://developer.android.com/tools/releases/platforms#6.0), [Omise](https://github.com/omise/omise-android)
 
-<p>
-<img src="./images/tops-01.jpg" alt="MobileApp" width="250" height="428">
-<img src="./images/tops-02.jpg" alt="MobileApp" width="250" height="428">
-<img src="./images/tops-03.jpg" alt="MobileApp" width="250" height="428">
-</p>
+![](./images/tops-merged.png)
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ### Neibo
 
@@ -599,13 +560,11 @@ Swipe to find deals in the nearest location-based mobile application.
 
 **Technologies:** [Android 6.0](https://developer.android.com/tools/releases/platforms#6.0)
 
-<p>
-<img src="./images/neibo-01.png" alt="MobileApp" width="250" height="444">
-<img src="./images/neibo-02.png" alt="MobileApp" width="250" height="444">
-<img src="./images/neibo-03.png" alt="MobileApp" width="250" height="444">
-</p>
+![](./images/neibo-merged.png)
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ### (Internship) KKU Authen
 
@@ -621,7 +580,6 @@ A window phone 8.1 application that facilitates automatic login to the Khon Kaen
 
 **Technologies:** [Window Phone 8.1](https://learn.microsoft.com/en-us/lifecycle/products/windows-phone-81)
 
-<p>
-<img src="./images/kku-authen-01.png" alt="MobileApp" width="250" height="457">
-<img src="./images/kku-authen-02.png" alt="MobileApp" width="250" height="457">
-</p>
+![](./images/kku-authen-merged.png)
+
+---
