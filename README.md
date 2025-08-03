@@ -2,6 +2,8 @@
 
 This portfolio showcases my professional work in software development, highlighting my contributions to web and mobile applications using technologies like Node.js, Next.js, Typescript, Android, Java, and Kotlin. Additionally, I also have experience, implementing CI/CD pipelines tailored to budget and specific requirements, tools and platforms such as Linux instances, AWS products, Docker Hub, and more.
 
+[Download as PDF](https://drive.google.com/file/d/1fOA2B_xoPVOdKtcpA49sCnahJdeZYOKq/view?usp=sharing)
+
 ## Projects
 
 ### B-Accounting Internal system
