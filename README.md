@@ -6,49 +6,6 @@ This portfolio showcases my professional work in software development, highlight
 
 ## Projects
 
-### Collaborise
-
-_Nov 2025 - Present_
-
-**Description:**
-
-A social community platform to bring people in circle of trust. The website will allow people to help each other in these circles.
-
-**Responsibilities:**
-
-- Validate and review the database design to ensure alignment with project requirements.
-- Developing a MVP despite unclear, evolving requirements and an undefined business algorithm for the circle-matching feature.
-
-**Technologies:** [Next.js v15.2.8](https://github.com/vercel/next.js/), [shadcn-ui](https://github.com/shadcn-ui/ui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [CASL](https://github.com/stalniy/casl), [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
-
-![](./images/collaborise-01.png)
-
----
-
-<div style="page-break-after: always;"></div>
-
-### NextJS Template
-
-_Sep 2025 - Present_
-
-**Description:**
-
-A production-ready Next.js template featuring CASL, Tailwind CSS, shadcn/ui, Prisma, and NextAuth, designed for scalable web applications.
-
-**Responsibilities:**
-
-- Updated all libraries to latest versions.
-- Developed a static content management system.
-- Implemented all essential CI/CD scripts for AWS build, local build, and server build.
-
-**Technologies:** [Next.js v16.0.1](https://github.com/vercel/next.js/), [shadcn-ui](https://github.com/shadcn-ui/ui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [CASL](https://github.com/stalniy/casl), [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
-
-![](./images/nextjs-template-01.png)
-
----
-
-<div style="page-break-after: always;"></div>
-
 ### Insight-Aircraft Transaction Tracker
 
 _Aug 2025 - Present_
@@ -65,7 +22,6 @@ The Insight-Aircraft Transactions Tracker is a tool designed to monitor and reco
 
 **Technologies:** [Next.js v15.4.5](https://github.com/vercel/next.js/), [shadcn-ui](https://github.com/shadcn-ui/ui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [CASL](https://github.com/stalniy/casl), [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
 
-![](./images/aircraft-01.png)
 ![](./images/aircraft-02.png)
 
 ---
@@ -89,7 +45,6 @@ A system for overseeing company assets, tracking employee resources, managing cl
 **Technologies:** [Next.js v15.5.9](https://github.com/vercel/next.js/), [shadcn-ui](https://github.com/shadcn-ui/ui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [CASL](https://github.com/stalniy/casl), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [Exceljs](https://github.com/exceljs/exceljs)
 
 ![](./images/b-accounting-01.png)
-![](./images/b-accounting-02.png)
 
 ---
 
@@ -132,7 +87,6 @@ An e-commerce platform for healthy food products, featuring web and mobile apps 
 
 **Technologies:** [Next.js v15.1.6](https://github.com/vercel/next.js/), [heroui](https://github.com/heroui-inc/heroui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [Stripe v17.0.0](https://github.com/stripe/stripe-node), [Kosmo Delivery](https://kosmo.readme.io/reference/whats-kosmo)
 
-![](./images/easyhealth-01.png)
 ![](./images/easyhealth-app-merged.png)
 
 ---
@@ -159,7 +113,6 @@ Subscription-Based Video Service for Mewing Content on Mobile App and Website.
 **Link:** [Website](https://web.mewingapp.co/home), [iOS](https://apps.apple.com/gb/app/mewing-by-dr-mike-mew/id1562833932), [Android](https://play.google.com/store/apps/details?id=com.orthotropics.mewing)
 
 ![](./images/mewing-01.png)
-![](./images/mewing-app-merged.png)
 
 ---
 
@@ -184,7 +137,6 @@ An e-commerce platform for a Mediterranean restaurant, featuring mobile apps wit
 
 **Link:** [iOS](https://apps.apple.com/th/app/el-mercado/id6468034312), [Android](https://play.google.com/store/apps/details?id=com.sybarite.elmercado)
 
-![](./images/elmercado-01.png)
 ![](./images/elmercado-app-merged.png)
 
 ---
@@ -210,7 +162,6 @@ A application designed for internal social communication in corporate, supportin
 
 **Link:** [Website](https://www.link2team.com/), [Android](https://play.google.com/store/apps/details?id=com.smartsoftasia.link2teamapp)
 
-![](./images/link2team-01.png)
 ![](./images/link2team-app-merged.png)
 
 ---
@@ -650,5 +601,3 @@ A window phone 8.1 application that facilitates automatic login to the Khon Kaen
 **Technologies:** [Window Phone 8.1](https://learn.microsoft.com/en-us/lifecycle/products/windows-phone-81)
 
 ![](./images/kku-authen-merged.png)
-
----
