@@ -6,6 +6,72 @@ This portfolio showcases my professional work in software development, highlight
 
 ## Projects
 
+### Collaborise
+
+_Nov 2025 - Present_
+
+**Description:**
+
+A social community platform to bring people in circle of trust. The website will allow people to help each other in these circles.
+
+**Responsibilities:**
+
+- Validate and review the database design to ensure alignment with project requirements.
+- Developing a MVP despite unclear, evolving requirements and an undefined business algorithm for the circle-matching feature.
+
+**Technologies:** [Next.js v15.2.8](https://github.com/vercel/next.js/), [shadcn-ui](https://github.com/shadcn-ui/ui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [CASL](https://github.com/stalniy/casl), [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+
+![](./images/collaborise-01.png)
+
+---
+
+<div style="page-break-after: always;"></div>
+
+### NextJS Template
+
+_Sep 2025 - Present_
+
+**Description:**
+
+A production-ready Next.js template featuring CASL, Tailwind CSS, shadcn/ui, Prisma, and NextAuth, designed for scalable web applications.
+
+**Responsibilities:**
+
+- Updated all libraries to latest versions.
+- Developed a static content management system.
+- Implemented all essential CI/CD scripts for AWS build, local build, and server build.
+
+**Technologies:** [Next.js v16.0.1](https://github.com/vercel/next.js/), [shadcn-ui](https://github.com/shadcn-ui/ui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [CASL](https://github.com/stalniy/casl), [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+
+![](./images/nextjs-template-01.png)
+
+---
+
+<div style="page-break-after: always;"></div>
+
+### Insight-Aircraft Transaction Tracker
+
+_Aug 2025 - Present_
+
+**Description:**
+
+The Insight-Aircraft Transactions Tracker is a tool designed to monitor and record aircraft sales and transactions, with a focus on tracking timelines and key milestones.
+
+**Responsibilities:**
+
+- Led the project by gathering requirements, breaking down tasks, delegating work, testing, and deploying.
+- Developed a backend system that serves APIs for the frontend.
+- Designed and implemented DevOps architecture and CI/CD pipelines.
+
+**Technologies:** [Next.js v15.4.5](https://github.com/vercel/next.js/), [shadcn-ui](https://github.com/shadcn-ui/ui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [CASL](https://github.com/stalniy/casl), [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+
+![](./images/aircraft-01.png)
+![](./images/aircraft-02.png)
+
+---
+
+<div style="page-break-after: always;"></div>
+
 ### B-Accounting Internal system
 
 _Mar 2025 - Present_
@@ -17,9 +83,10 @@ A system for overseeing company assets, tracking employee resources, managing cl
 **Responsibilities:**
 
 - Developed an Excel data export summary with a design that meets the requirements.
+- Developed a company drive for managing files in storage.
 - Assist with front-end minor changes.
 
-**Technologies:** [Next.js v15.0.2](https://github.com/vercel/next.js/), [nextui](https://github.com/nextui-org/nextui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [CASL](https://github.com/stalniy/casl), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [Exceljs](https://github.com/exceljs/exceljs)
+**Technologies:** [Next.js v15.5.9](https://github.com/vercel/next.js/), [shadcn-ui](https://github.com/shadcn-ui/ui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [CASL](https://github.com/stalniy/casl), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [Exceljs](https://github.com/exceljs/exceljs)
 
 ![](./images/b-accounting-01.png)
 ![](./images/b-accounting-02.png)
