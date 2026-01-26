@@ -110,7 +110,7 @@ Subscription-Based Video Service for Mewing Content on Mobile App and Website.
 
 **Technologies:** [Next.js v15.0.2](https://github.com/vercel/next.js/), [nextui](https://github.com/nextui-org/nextui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [Klaviyo](https://github.com/klaviyo/klaviyo-api-node), [Stripe v17.4.0](https://github.com/stripe/stripe-node)
 
-**Link:** [Website](https://web.mewingapp.co/home), [iOS](https://apps.apple.com/gb/app/mewing-by-dr-mike-mew/id1562833932), [Android](https://play.google.com/store/apps/details?id=com.orthotropics.mewing)
+**Link:** [Website](https://web.mewingapp.co/home), [App Store](https://apps.apple.com/gb/app/mewing-by-dr-mike-mew/id1562833932), [Play Store](https://play.google.com/store/apps/details?id=com.orthotropics.mewing)
 
 ![](./images/mewing-01.png)
 
@@ -120,7 +120,7 @@ Subscription-Based Video Service for Mewing Content on Mobile App and Website.
 
 ### El Mercado
 
-_Jun 2023 - Present_
+_Jun 2023 - Dec 2025_
 
 **Description:**
 
@@ -134,8 +134,6 @@ An e-commerce platform for a Mediterranean restaurant, featuring mobile apps wit
 - Collaborated closely with the mobile app development team to align on project goals and deliverables.
 
 **Technologies:** [Next.js v13.5.6](https://github.com/vercel/next.js/), [headlessui](https://github.com/tailwindlabs/headlessui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [Stripe v12.18.0](https://github.com/stripe/stripe-node)
-
-**Link:** [iOS](https://apps.apple.com/th/app/el-mercado/id6468034312), [Android](https://play.google.com/store/apps/details?id=com.sybarite.elmercado)
 
 ![](./images/elmercado-app-merged.png)
 
@@ -158,9 +156,9 @@ A application designed for internal social communication in corporate, supportin
 - Managed CI/CD pipelines to ensure efficient and reliable deployment workflows.
 - Served as the main developer collaborating with the front-end team.
 
-**Technologies:** [Next.js v13.4.8](https://github.com/vercel/next.js/), [headlessui](https://github.com/tailwindlabs/headlessui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [twin.macro](https://github.com/ben-rogerson/twin.macro)
+**Technologies:** [Next.js v13.4.8](https://github.com/vercel/next.js/), [headlessui](https://github.com/tailwindlabs/headlessui), [prisma](https://github.com/prisma/prisma), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [twin.macro](https://github.com/ben-rogerson/twin.macro), [ThaibulkSMS](https://developer.thaibulksms.com/), [AWS SNS](https://aws.amazon.com/sns/)
 
-**Link:** [Website](https://www.link2team.com/), [Android](https://play.google.com/store/apps/details?id=com.smartsoftasia.link2teamapp)
+**Link:** [Website](https://www.link2team.com/), [Play Store](https://play.google.com/store/apps/details?id=com.smartsoftasia.link2teamapp)
 
 ![](./images/link2team-app-merged.png)
 
@@ -170,7 +168,7 @@ A application designed for internal social communication in corporate, supportin
 
 ### AI Accounting
 
-_Jan 2023 - Present_
+_Jan 2023 - Feb 2025_
 
 **Description:**
 
@@ -254,7 +252,7 @@ A ride-hailing application that specializes in electric motorcycle (EV), that in
 - Integrated with a payment gateway.
 - Established a WebSocket connection.
 
-**Technologies:** [Android 12](https://developer.android.com/tools/releases/platforms#12), [Kotlin v1.6.0](https://github.com/JetBrains/kotlin/releases/tag/v1.6.0), [Websocket](https://github.com/centrifugal/centrifuge-java), [2C2P](https://developer.2c2p.com/docs/sdk-import-sdk)
+**Technologies:** [Android 12](https://developer.android.com/tools/releases/platforms#12), [Kotlin v1.6.0](https://github.com/JetBrains/kotlin/releases/tag/v1.6.0), [Centrifuge (Websocket)](https://github.com/centrifugal/centrifuge-java), [2C2P](https://developer.2c2p.com/docs/sdk-import-sdk)
 
 ![](./images/evriderz-merged.png)
 
@@ -276,7 +274,7 @@ A perfume advisory app that allows users to browse brands, models, fragrance not
 
 **Technologies:** [Android 13](https://developer.android.com/tools/releases/platforms#13), [Kotlin v1.7.20](https://github.com/JetBrains/kotlin/releases/tag/v1.7.20)
 
-**Link:** [Android](https://play.google.com/store/apps/details?id=com.smartsoftasia.perfume), [Youtube (User)](https://www.youtube.com/watch?v=Mv55xK8ZzrU), [Youtube (Pro)](https://www.youtube.com/watch?v=InI4BZTeqwU)
+**Link:** [Play Store](https://play.google.com/store/apps/details?id=com.smartsoftasia.perfume), [Youtube (User)](https://www.youtube.com/watch?v=Mv55xK8ZzrU), [Youtube (Pro)](https://www.youtube.com/watch?v=InI4BZTeqwU)
 
 ![](./images/perfumist-v3-merged.png)
 
@@ -300,7 +298,7 @@ Rabbit Rewards is an application mainly for redeeming points for rewards, featur
 
 **Technologies:** [Android 13](https://developer.android.com/tools/releases/platforms#13), [Kotlin v1.7.10](https://github.com/JetBrains/kotlin/releases/tag/v1.7.10)
 
-**Link:** [Android](https://play.google.com/store/apps/details?id=th.co.carrotrewards)
+**Link:** [Play Store](https://play.google.com/store/apps/details?id=th.co.carrotrewards), [Youtube](https://www.youtube.com/watch?v=hOvIPbHqVPQ)
 
 ![](./images/rabbit-rewards-app-merged.png)
 
@@ -429,7 +427,7 @@ A ride-hailing application available in Brunei.
 
 **Technologies:** [Android 8.0](https://developer.android.com/tools/releases/platforms#8.0), [SocketIO](https://github.com/socketio/socket.io-client-java), [AuthorizeNet](https://github.com/AuthorizeNet/accept-sdk-android)
 
-**Link:** [Android (Customer)](https://play.google.com/store/apps/details?id=com.dartbrunei.darttaxi.rider), [Android (Driver)](https://play.google.com/store/apps/details?id=com.dartbrunei.darttaxi.driver), [Youtube](https://www.youtube.com/watch?v=sptk5s88Vhk)
+**Link:** [Play Store (Customer)](https://play.google.com/store/apps/details?id=com.dartbrunei.darttaxi.rider), [Play Store (Driver)](https://play.google.com/store/apps/details?id=com.dartbrunei.darttaxi.driver), [Youtube](https://www.youtube.com/watch?v=sptk5s88Vhk)
 
 ![](./images/dart-merged.png)
 
@@ -515,7 +513,7 @@ A ride-hailing application available in Guam island.
 
 **Technologies:** [Android 10](https://developer.android.com/tools/releases/platforms#10), [Kotlin v1.4.10](https://github.com/JetBrains/kotlin/releases/tag/v1.4.10), [SocketIO](https://github.com/socketio/socket.io-client-java), [Twilio](https://www.twilio.com/docs/voice/sdks/android), [AuthorizeNet](https://github.com/AuthorizeNet/accept-sdk-android)
 
-**Link:** [Android (Customer)](https://play.google.com/store/apps/details?id=stroll.guam.customer), [Android (Driver)](https://play.google.com/store/apps/details?id=com.stroll.driver)
+**Link:** [Play Store (Customer)](https://play.google.com/store/apps/details?id=stroll.guam.customer), [Play Store (Driver)](https://play.google.com/store/apps/details?id=com.stroll.driver), [Youtube](https://www.youtube.com/watch?v=A6LI_GWUN3U)
 
 ![](./images/stroll-guam-merged.png)
 
@@ -537,7 +535,7 @@ A perfume advisory app that allows users to browse brands, models, fragrance not
 
 **Technologies:** [Android 8.1](https://developer.android.com/tools/releases/platforms#8.1)
 
-**Link:** [Android](https://play.google.com/store/apps/details?id=com.smartsoftasia.perfume), [Youtube](https://www.youtube.com/watch?v=w14ooIPx5ts)
+**Link:** [Play Store](https://play.google.com/store/apps/details?id=com.smartsoftasia.perfume), [Youtube](https://www.youtube.com/watch?v=w14ooIPx5ts)
 
 ![](./images/perfumist-v2-merged.png)
 
@@ -560,6 +558,8 @@ An e-commerce platform for Tops supermarket.
 
 **Technologies:** [Android 6.0](https://developer.android.com/tools/releases/platforms#6.0), [Omise](https://github.com/omise/omise-android)
 
+**Link:** [Youtube](https://www.youtube.com/watch?v=r1du44KJQ6M)
+
 ![](./images/tops-merged.png)
 
 ---
@@ -579,6 +579,8 @@ Swipe to find deals in the nearest location-based mobile application.
 - Developed several features.
 
 **Technologies:** [Android 6.0](https://developer.android.com/tools/releases/platforms#6.0)
+
+**Link:** [Youtube](https://www.youtube.com/watch?v=jyvHmUmEC5c)
 
 ![](./images/neibo-merged.png)
 
