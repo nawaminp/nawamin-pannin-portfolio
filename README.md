@@ -52,7 +52,7 @@ A system for overseeing company assets, tracking employee resources, managing cl
 
 ### CompMoto POS
 
-_Jan 2025 - Present_
+_Jan 2025 - Jul 2025_
 
 **Description:**
 
@@ -83,9 +83,9 @@ An e-commerce platform for healthy food products, featuring web and mobile apps 
 
 - Integrate Kosmo Delivery for rider location tracking.
 - Implement app notification API.
-- Collaborate with mobile app team on payment gateway integration.
+- Collaborate with mobile app team on Stripe payment gateway integration.
 
-**Technologies:** [Next.js v15.1.6](https://github.com/vercel/next.js/), [heroui](https://github.com/heroui-inc/heroui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [Stripe v17.0.0](https://github.com/stripe/stripe-node), [Kosmo Delivery](https://kosmo.readme.io/reference/whats-kosmo)
+**Technologies:** [Next.js v15.1.6](https://github.com/vercel/next.js/), [heroui](https://github.com/heroui-inc/heroui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [Stripe](https://stripe.com/en-th), [Kosmo Delivery](kosmo.delivery)
 
 ![](./images/easyhealth-app-merged.png)
 
@@ -108,7 +108,7 @@ Subscription-Based Video Service for Mewing Content on Mobile App and Website.
 - Built APIs for mobile app and web front-end.
 - Contributed to the development of the web front-end.
 
-**Technologies:** [Next.js v15.0.2](https://github.com/vercel/next.js/), [nextui](https://github.com/nextui-org/nextui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [Klaviyo](https://github.com/klaviyo/klaviyo-api-node), [Stripe v17.4.0](https://github.com/stripe/stripe-node)
+**Technologies:** [Next.js v15.0.2](https://github.com/vercel/next.js/), [nextui](https://github.com/nextui-org/nextui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [Klaviyo](https://www.klaviyo.com), [Stripe](https://stripe.com/en-th)
 
 **Link:** [Website](https://web.mewingapp.co/home), [App Store](https://apps.apple.com/gb/app/mewing-by-dr-mike-mew/id1562833932), [Play Store](https://play.google.com/store/apps/details?id=com.orthotropics.mewing)
 
@@ -133,7 +133,7 @@ An e-commerce platform for a Mediterranean restaurant, featuring mobile apps wit
 - Managed CI/CD pipelines to ensure efficient and reliable deployment workflows.
 - Collaborated closely with the mobile app development team to align on project goals and deliverables.
 
-**Technologies:** [Next.js v13.5.6](https://github.com/vercel/next.js/), [headlessui](https://github.com/tailwindlabs/headlessui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [Stripe v12.18.0](https://github.com/stripe/stripe-node)
+**Technologies:** [Next.js v13.5.6](https://github.com/vercel/next.js/), [headlessui](https://github.com/tailwindlabs/headlessui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [Stripe](https://stripe.com/en-th)
 
 ![](./images/elmercado-app-merged.png)
 
@@ -143,7 +143,7 @@ An e-commerce platform for a Mediterranean restaurant, featuring mobile apps wit
 
 ### Link2Team
 
-_Mar 2023 - Present_
+_Mar 2023 - Oct 2024_
 
 **Description:**
 
@@ -178,11 +178,9 @@ A web application that uses an AI model to recognize a bill or receipt, pre-fill
 
 - Design a workflow for a team.
 - Develop a proof of concept (POC) for a Xero SDK.
-- Manage CI/CD pipelines and the GCP platform.
+- Manage CI/CD pipelines and the GCP platform for storage.
 
-**Technologies:** [Next.js v14.1.0](https://github.com/vercel/next.js/), [RadixUI](https://github.com/radix-ui/themes), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [xero-node](https://github.com/XeroAPI/xero-node)
-
-**Link:** [Website](https://daos-ai.smartsoftasia.com)
+**Technologies:** [Next.js v14.1.0](https://github.com/vercel/next.js/), [RadixUI](https://github.com/radix-ui/themes), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [Xero](https://www.xero.com)
 
 ![](./images/ai-accounting-01.png)
 
@@ -249,10 +247,10 @@ A ride-hailing application that specializes in electric motorcycle (EV), that in
 **Responsibilities:**
 
 - Developed core features for the Rider, Driver, and mostly Merchant applications.
-- Integrated with a payment gateway.
+- Integrated the 2C2P payment gateway to process payments.
 - Established a WebSocket connection.
 
-**Technologies:** [Android 12](https://developer.android.com/tools/releases/platforms#12), [Kotlin v1.6.0](https://github.com/JetBrains/kotlin/releases/tag/v1.6.0), [Centrifuge (Websocket)](https://github.com/centrifugal/centrifuge-java), [2C2P](https://developer.2c2p.com/docs/sdk-import-sdk)
+**Technologies:** [Android 12](https://developer.android.com/tools/releases/platforms#12), [Kotlin v1.6.0](https://github.com/JetBrains/kotlin/releases/tag/v1.6.0), [Centrifuge (Websocket)](https://github.com/centrifugal/centrifuge-java), [2C2P](https://go.2c2p.com/thailand)
 
 ![](./images/evriderz-merged.png)
 
@@ -328,26 +326,6 @@ A mobile app for property listings, connecting buyers and sellers efficiently. U
 
 <div style="page-break-after: always;"></div>
 
-### JJ
-
-_Jan 2018 - Jun 2018_
-
-**Description:**
-
-A marketplace mobile application specifically for the Chatuchak Market area.
-
-**Responsibilities:**
-
-- Developed several features.
-
-**Technologies:** [Android 8.1](https://developer.android.com/tools/releases/platforms#8.1), [Kotlin v1.2.41](https://github.com/JetBrains/kotlin/releases/tag/v1.2.41)
-
-![](./images/jj-merged.png)
-
----
-
-<div style="page-break-after: always;"></div>
-
 ### Bemynt
 
 _Aug 2017 - Mar 2018_
@@ -359,9 +337,9 @@ A fashion marketplace mobile application that can filter by gender, color, size,
 **Responsibilities:**
 
 - Developed several features.
-- Integrated the Omise payment gateway.
+- Integrated the Omise payment gateway to process checkouts.
 
-**Technologies:** [Android 7.1](https://developer.android.com/tools/releases/platforms#7.1), [Kotlin v1.2.0](https://github.com/JetBrains/kotlin/releases/tag/v1.2.0), [Omise](https://github.com/omise/omise-android)
+**Technologies:** [Android 7.1](https://developer.android.com/tools/releases/platforms#7.1), [Kotlin v1.2.0](https://github.com/JetBrains/kotlin/releases/tag/v1.2.0), [Omise](https://www.omise.co)
 
 ![](./images/bemynt-merged.png)
 
@@ -385,51 +363,6 @@ Canyudo is a mobile application for task management, allowing users to assign ta
 **Technologies:** [Android 8.0](https://developer.android.com/tools/releases/platforms#8.0), [Kotlin v1.2.10](https://github.com/JetBrains/kotlin/releases/tag/v1.2.10), [Realm](https://github.com/realm/realm-kotlin)
 
 ![](./images/canyudo-merged.png)
-
----
-
-<div style="page-break-after: always;"></div>
-
-### Guru Chat
-
-_Jan 2017 - Aug 2017_
-
-**Description:**
-
-Guru Chat is an Android chat application focused on MLM users.
-
-**Responsibilities:**
-
-- Configured project environments.
-- Developed all features using Smack, an open-source XMPP client library.
-
-**Technologies:** [Android 7.1](https://developer.android.com/tools/releases/platforms#7.1), [Smack](https://www.igniterealtime.org/projects/smack/)
-
-![](./images/guru-chat-merged.png)
-
----
-
-<div style="page-break-after: always;"></div>
-
-### Dart Brunei
-
-_Dec 2016 - Dec 2017 (v1.0.0 - v1.1.9)_
-
-**Description:**
-
-A ride-hailing application available in Brunei.
-
-**Responsibilities:**
-
-- Configured project environments.
-- Integrated the AuthorizeNet payment gateway.
-- Developed core features such as streaming locations, socket ride handle and etc.
-
-**Technologies:** [Android 8.0](https://developer.android.com/tools/releases/platforms#8.0), [SocketIO](https://github.com/socketio/socket.io-client-java), [AuthorizeNet](https://github.com/AuthorizeNet/accept-sdk-android)
-
-**Link:** [Play Store (Customer)](https://play.google.com/store/apps/details?id=com.dartbrunei.darttaxi.rider), [Play Store (Driver)](https://play.google.com/store/apps/details?id=com.dartbrunei.darttaxi.driver), [Youtube](https://www.youtube.com/watch?v=sptk5s88Vhk)
-
-![](./images/dart-merged.png)
 
 ---
 
@@ -508,10 +441,10 @@ A ride-hailing application available in Guam island.
 **Responsibilities:**
 
 - Developed core features such as streaming locations, socket ride handle and etc.
-- Integrated with a payment gateway.
+- Integrated the AuthorizeNet payment gateway to process payment.
 - Integrated with a calling service through Twilio.
 
-**Technologies:** [Android 10](https://developer.android.com/tools/releases/platforms#10), [Kotlin v1.4.10](https://github.com/JetBrains/kotlin/releases/tag/v1.4.10), [SocketIO](https://github.com/socketio/socket.io-client-java), [Twilio](https://www.twilio.com/docs/voice/sdks/android), [AuthorizeNet](https://github.com/AuthorizeNet/accept-sdk-android)
+**Technologies:** [Android 10](https://developer.android.com/tools/releases/platforms#10), [Kotlin v1.4.10](https://github.com/JetBrains/kotlin/releases/tag/v1.4.10), [SocketIO](https://github.com/socketio/socket.io-client-java), [Twilio](https://www.twilio.com), [AuthorizeNet](https://www.authorize.net)
 
 **Link:** [Play Store (Customer)](https://play.google.com/store/apps/details?id=stroll.guam.customer), [Play Store (Driver)](https://play.google.com/store/apps/details?id=com.stroll.driver), [Youtube](https://www.youtube.com/watch?v=A6LI_GWUN3U)
 
@@ -553,10 +486,10 @@ An e-commerce platform for Tops supermarket.
 
 **Responsibilities:**
 
-- Developed several features.
-- Integrated with a payment gateway.
+- Developed several features such as product listing, product details, and tab menus.
+- Integrated the 2C2P payment gateway to process checkouts.
 
-**Technologies:** [Android 6.0](https://developer.android.com/tools/releases/platforms#6.0), [Omise](https://github.com/omise/omise-android)
+**Technologies:** [Android 6.0](https://developer.android.com/tools/releases/platforms#6.0), [2C2P](https://go.2c2p.com/thailand)
 
 **Link:** [Youtube](https://www.youtube.com/watch?v=r1du44KJQ6M)
 
@@ -576,7 +509,7 @@ Swipe to find deals in the nearest location-based mobile application.
 
 **Responsibilities:**
 
-- Developed several features.
+- Assist in fixing bugs and debugging minor features.
 
 **Technologies:** [Android 6.0](https://developer.android.com/tools/releases/platforms#6.0)
 
