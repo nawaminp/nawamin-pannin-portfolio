@@ -1,6 +1,6 @@
 ## Summary
 
-This portfolio showcases my professional work in software development, highlighting my contributions to web and mobile applications using technologies like Node.js, Next.js, Typescript, Android, Java, and Kotlin. Additionally, I also have experience, implementing CI/CD pipelines tailored to budget and specific requirements, tools and platforms such as Linux instances, AWS products, Docker Hub, and more.
+This portfolio presents selected highlights of my professional experience in software development, highlighting my contributions to web and mobile applications using technologies like Node.js, Next.js, Typescript, Android, Java, and Kotlin. Additionally, I also have experience, implementing CI/CD pipelines tailored to budget and specific requirements, tools and platforms such as Linux instances, AWS products, Docker Hub, and more.
 
 [Download as PDF](nawamin-pannin-portfolio.pdf)
 
@@ -83,9 +83,11 @@ An e-commerce platform for healthy food products, featuring web and mobile apps 
 
 - Integrate Kosmo Delivery for rider location tracking.
 - Implement app notification API.
-- Collaborate with mobile app team on Stripe payment gateway integration.
+- Collaborate with mobile app team on Stripe (now Omise) payment gateway integration.
 
 **Technologies:** [Next.js v15.1.6](https://github.com/vercel/next.js/), [heroui](https://github.com/heroui-inc/heroui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [Stripe](https://stripe.com/en-th), [Kosmo Delivery](kosmo.delivery)
+
+**Link:** [Website](https://easyhealth.asia), [App Store](https://apps.apple.com/us/app/easy-health/id6667109383), [Play Store](https://play.google.com/store/apps/details?id=com.easyHealth.app)
 
 ![](./images/easyhealth-app-merged.png)
 
@@ -161,28 +163,6 @@ A application designed for internal social communication in corporate, supportin
 **Link:** [Website](https://www.link2team.com/), [Play Store](https://play.google.com/store/apps/details?id=com.smartsoftasia.link2teamapp)
 
 ![](./images/link2team-app-merged.png)
-
----
-
-<div style="page-break-after: always;"></div>
-
-### AI Accounting
-
-_Jan 2023 - Feb 2025_
-
-**Description:**
-
-A web application that uses an AI model to recognize a bill or receipt, pre-fill the data, and upload it to Xero accounting services.
-
-**Responsibilities:**
-
-- Design a workflow for a team.
-- Develop a proof of concept (POC) for a Xero SDK.
-- Manage CI/CD pipelines and the GCP platform for storage.
-
-**Technologies:** [Next.js v14.1.0](https://github.com/vercel/next.js/), [RadixUI](https://github.com/radix-ui/themes), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [Xero](https://www.xero.com)
-
-![](./images/ai-accounting-01.png)
 
 ---
 
@@ -304,28 +284,6 @@ Rabbit Rewards is an application mainly for redeeming points for rewards, featur
 
 <div style="page-break-after: always;"></div>
 
-### Keyistar
-
-_Apr 2018 - Feb 2020_
-
-**Description:**
-
-A mobile app for property listings, connecting buyers and sellers efficiently. Users can browse, list, and see a contact details.
-
-**Responsibilities:**
-
-- Configured project environments.
-- Migrated to AndroidX.
-- Developed several features.
-
-**Technologies:** [Android 11](https://developer.android.com/tools/releases/platforms#11), [Kotlin v1.5.30](https://github.com/JetBrains/kotlin/releases/tag/v1.5.30)
-
-![](./images/keyistar-merged.png)
-
----
-
-<div style="page-break-after: always;"></div>
-
 ### Bemynt
 
 _Aug 2017 - Mar 2018_
@@ -390,46 +348,6 @@ A gamification app that includes three features: shaking eggs, card pairing, and
 
 <div style="page-break-after: always;"></div>
 
-### DTM IOM
-
-_May 2016 - Feb 2017_
-
-**Description:**
-
-A survey application for the International Organization for Migration.
-
-**Responsibilities:**
-
-- Developed a questionnaire feature with dynamic question types from the CMS.
-
-**Technologies:** [Android 7.1](https://developer.android.com/tools/releases/platforms#7.1), [Realm](https://github.com/realm/realm-kotlin)
-
-![](./images/dtm-merged.png)
-
----
-
-<div style="page-break-after: always;"></div>
-
-### Prompt Auto
-
-_Feb 2016 - Aug 2017_
-
-**Description:**
-
-An emergency call for help to an insurance service involving a rider (end-user) and a driver.
-
-**Responsibilities:**
-
-- Developed both rider and driver application.
-
-**Technologies:** [Android 7.1](https://developer.android.com/tools/releases/platforms#7.1)
-
-![](./images/prompt-auto-merged.png)
-
----
-
-<div style="page-break-after: always;"></div>
-
 ### Stroll Guam
 
 _Nov 2015 - Jan 2021 (v1.0.0 - v.4.0.5)_
@@ -449,28 +367,6 @@ A ride-hailing application available in Guam island.
 **Link:** [Play Store (Customer)](https://play.google.com/store/apps/details?id=stroll.guam.customer), [Play Store (Driver)](https://play.google.com/store/apps/details?id=com.stroll.driver), [Youtube](https://www.youtube.com/watch?v=A6LI_GWUN3U)
 
 ![](./images/stroll-guam-merged.png)
-
----
-
-<div style="page-break-after: always;"></div>
-
-### Perfumist v2
-
-_Oct 2015 - Jan 2020 (v2.2.0 - v3.3.3)_
-
-**Description:**
-
-A perfume advisory app that allows users to browse brands, models, fragrance notes, and concentration levels.
-
-**Responsibilities:**
-
-- Built Android apps that improve user experience and functionality with smart design and advanced technology.
-
-**Technologies:** [Android 8.1](https://developer.android.com/tools/releases/platforms#8.1)
-
-**Link:** [Play Store](https://play.google.com/store/apps/details?id=com.smartsoftasia.perfume), [Youtube](https://www.youtube.com/watch?v=w14ooIPx5ts)
-
-![](./images/perfumist-v2-merged.png)
 
 ---
 

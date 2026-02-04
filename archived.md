@@ -1,3 +1,47 @@
+### AI Accounting
+
+_Jan 2023 - Feb 2025_
+
+**Description:**
+
+A web application that uses an AI model to recognize a bill or receipt, pre-fill the data, and upload it to Xero accounting services.
+
+**Responsibilities:**
+
+- Design a workflow for a team.
+- Develop a proof of concept (POC) for a Xero SDK.
+- Manage CI/CD pipelines and the GCP platform for storage.
+
+**Technologies:** [Next.js v14.1.0](https://github.com/vercel/next.js/), [RadixUI](https://github.com/radix-ui/themes), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [Xero](https://www.xero.com)
+
+![](./images/ai-accounting-01.png)
+
+---
+
+<div style="page-break-after: always;"></div>
+
+### Keyistar
+
+_Apr 2018 - Feb 2020_
+
+**Description:**
+
+A mobile app for property listings, connecting buyers and sellers efficiently. Users can browse, list, and see a contact details.
+
+**Responsibilities:**
+
+- Configured project environments.
+- Migrated to AndroidX.
+- Developed several features.
+
+**Technologies:** [Android 11](https://developer.android.com/tools/releases/platforms#11), [Kotlin v1.5.30](https://github.com/JetBrains/kotlin/releases/tag/v1.5.30)
+
+![](./images/keyistar-merged.png)
+
+---
+
+<div style="page-break-after: always;"></div>
+
 ### JJ
 
 _Jan 2018 - Jun 2018_
@@ -60,3 +104,61 @@ A ride-hailing application available in Brunei.
 ![](./images/dart-merged.png)
 
 ---
+
+### DTM IOM
+
+_May 2016 - Feb 2017_
+
+**Description:**
+
+A survey application for the International Organization for Migration.
+
+**Responsibilities:**
+
+- Developed a questionnaire feature with dynamic question types from the CMS.
+
+**Technologies:** [Android 7.1](https://developer.android.com/tools/releases/platforms#7.1), [Realm](https://github.com/realm/realm-kotlin)
+
+![](./images/dtm-merged.png)
+
+---
+
+<div style="page-break-after: always;"></div>
+
+### Prompt Auto
+
+_Feb 2016 - Aug 2017_
+
+**Description:**
+
+An emergency call for help to an insurance service involving a rider (end-user) and a driver.
+
+**Responsibilities:**
+
+- Developed both rider and driver application.
+
+**Technologies:** [Android 7.1](https://developer.android.com/tools/releases/platforms#7.1)
+
+![](./images/prompt-auto-merged.png)
+
+---
+
+<div style="page-break-after: always;"></div>
+
+### Perfumist v2
+
+_Oct 2015 - Jan 2020 (v2.2.0 - v3.3.3)_
+
+**Description:**
+
+A perfume advisory app that allows users to browse brands, models, fragrance notes, and concentration levels.
+
+**Responsibilities:**
+
+- Built Android apps that improve user experience and functionality with smart design and advanced technology.
+
+**Technologies:** [Android 8.1](https://developer.android.com/tools/releases/platforms#8.1)
+
+**Link:** [Play Store](https://play.google.com/store/apps/details?id=com.smartsoftasia.perfume), [Youtube](https://www.youtube.com/watch?v=w14ooIPx5ts)
+
+![](./images/perfumist-v2-merged.png)
