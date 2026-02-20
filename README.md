@@ -8,7 +8,7 @@ This portfolio presents selected highlights of my professional experience in sof
 
 ### Insight-Aircraft Transaction Tracker
 
-_Aug 2025 - Present_
+_Aug 2025 - Feb 2026_
 
 **Description:**
 
@@ -30,7 +30,7 @@ The Insight-Aircraft Transactions Tracker is a tool designed to monitor and reco
 
 ### B-Accounting Internal system
 
-_Mar 2025 - Present_
+_Mar 2025 - Feb 2026_
 
 **Description:**
 
@@ -73,7 +73,7 @@ POS Stock Management with Microsoft Dynamics (Cloud ERP) Synchronization for Aut
 
 ### Easyhealth
 
-_Jun 2024 - Present_
+_Jun 2024 - Feb 2026_
 
 **Description:**
 
@@ -97,7 +97,7 @@ An e-commerce platform for healthy food products, featuring web and mobile apps 
 
 ### Mewing App
 
-_May 2024 - Present_
+_May 2024 - Feb 2026_
 
 **Description:**
 
