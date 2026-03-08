@@ -273,10 +273,11 @@ Rabbit Rewards is an application mainly for redeeming points for rewards, featur
 - Configured project environments.
 - Built Android apps, improving functionality and user experience with modern design and tech.
 - Efficiently assigned tasks to quickly implement required changes and add features, meeting project deadlines.
+- Implement Huawei Mobile Services (HMS) for a hybrid application to be distributed on the Huawei AppGallery.
 
 **Technologies:** [Android 13](https://developer.android.com/tools/releases/platforms#13), [Kotlin v1.7.10](https://github.com/JetBrains/kotlin/releases/tag/v1.7.10)
 
-**Link:** [Play Store](https://play.google.com/store/apps/details?id=th.co.carrotrewards), [Youtube](https://www.youtube.com/watch?v=hOvIPbHqVPQ)
+**Link:** [Play Store](https://play.google.com/store/apps/details?id=th.co.carrotrewards), [Huawei AppGallery](https://appgallery.huawei.com/#/app/C101083715), [Youtube](https://www.youtube.com/watch?v=hOvIPbHqVPQ)
 
 ![](./images/rabbit-rewards-app-merged.png)
 
